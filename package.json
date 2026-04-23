@@ -1,0 +1,21 @@
+{
+  "name": "midtermquestion04(ci-cd)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanvorza360/webapp-MalikHassan-047.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hassanvorza360/webapp-MalikHassan-047/issues"
+  },
+  "homepage": "https://github.com/hassanvorza360/webapp-MalikHassan-047#readme"
+}
